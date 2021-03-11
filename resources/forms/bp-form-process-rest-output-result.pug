@@ -1,0 +1,9 @@
+extends ../views/form/default-confirmation-form
+
+block formContent
+
+	+formElement({
+		type: "processOutput",
+		format: "text",
+		loadingText: "Talking to " + submit.uri + ". Please wait..."
+	})

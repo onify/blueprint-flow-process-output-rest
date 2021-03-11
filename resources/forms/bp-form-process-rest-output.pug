@@ -1,0 +1,10 @@
+extends ../views/form/default-form
+
+block formContent	
+
+	+formElement({
+		name: "uri",
+		label: "REST API uri",
+		value: "https://jsonplaceholder.typicode.com/users/1",
+		required: true
+	})

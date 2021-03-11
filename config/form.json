@@ -1,0 +1,21 @@
+{
+    "slug": "bp-form-process-rest-output",
+    "title": "Form process REST output",
+    "name": "Form process REST output",
+    "template": {
+        "form": "bp-form-process-rest-output",
+        "result": "bp-form-process-rest-output-result"
+    },
+    "test": false,
+    "process": {
+        "workflow": "form-process-output-rest",
+        "title": "Form process output from REST API",
+        "description": "{{user.name}} is testing: Form process output from REST API"
+    },
+    "noninteractive": false,
+    "tag": [
+        "blueprint",
+        "flow",
+        "form-process-output-rest"
+    ]
+}
