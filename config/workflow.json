@@ -1,7 +1,7 @@
 {
   "state": [],
   "key": "form-process-output-rest",
-  "name": "Blueprint: Form process output from REST API\r",
+  "name": "Blueprint: Form process output from REST API",
   "bpmnresource": "/flows/form-process-output-rest.bpmn",
   "tag": [
     "flow",

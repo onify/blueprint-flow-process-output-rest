@@ -44,12 +44,13 @@ Copy resource files to your resources folder. Make sure paths are the same.
 
 Go to the `./config` folder and import the configuration using curl.
 
-Import the form:
+**Import the form:**
 
 ```bash
 curl -X POST "<ONIFY-HUB-API-URL>/api/v2/admin/forms" -H "accept: application/json" -H "authorization: <AUTH-TOKEN>" -H "Content-Type: application/json" -d @form.json
 ```
-Import the workflow:
+
+**Import the workflow:**
 
 ```bash
 curl -X POST "<ONIFY-HUB-API-URL>/api/v2/admin/workflows" -H "accept: application/json" -H "authorization: <AUTH-TOKEN>" -H "Content-Type: application/json" -d @workflow.json
