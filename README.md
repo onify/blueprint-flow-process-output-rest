@@ -1,6 +1,10 @@
-# Onify Blueprint: Form process output from REST API
+![Onify Blueprints](https://files.readme.io/8ba3f14-onify-blueprints-logo.png)
 
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+
+# Onify Blueprint: Form process output from REST API
+
+Example that shows how a process can be started from a form and report back the process using the process output. This is great if you want to give your users a clear view of the results.
 
 ## Screenshots
 
