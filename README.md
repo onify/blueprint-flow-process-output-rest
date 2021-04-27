@@ -4,7 +4,7 @@
 
 # Onify Blueprint: Form process output from REST API
 
-Example that shows how a process can be started from a form and report back the process using the process output. This is great if you want to give your users a clear view of the results.
+Example that shows how a process can be started from a form and report back the process using the process output. This is great if you want to give your users a clear view of the results. Here we integrate with a simple REST-API and just return the "raw" JSON result on the screen. 
 
 ## Screenshots
 
