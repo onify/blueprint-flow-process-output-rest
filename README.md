@@ -6,13 +6,9 @@
 
 Example that shows how a process can be started from a form and report back the process using the process output. This is great if you want to give your users a clear view of the results. Here we integrate with a simple REST-API and just return the "raw" JSON result on the screen. 
 
+![Onify Blueprint: Form process output from REST API](blueprint.jpg "Blueprint")
+
 ## Screenshots
-
-### Flow
-
-This is the BPMN flow that is used.
-
-![alt text](flow.png "Flow")
 
 ### Main form
 
@@ -25,6 +21,12 @@ This is the main form where you enter a URI for the REST API.
 This is the result coming from the REST API in plain text.
 
 ![alt text](form2.png "Form 2")
+
+### Flow
+
+This is the BPMN flow that is used.
+
+![alt text](flow.png "Flow")
 
 ## Requirements
 
